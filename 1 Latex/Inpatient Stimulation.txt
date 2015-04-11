@@ -1,7 +1,64 @@
 Inpatient Stimulation 
+=====================
 
-1. Hardware
+## Hardware
 
-2. Software
-- Apps
-	- 
+## Software
+
+1. Search
+	- Physical Products
+		- DISABLE
+	- Digital Products
+		- Books
+		- Video
+		- Music
+		- Games
+		- Newsstand
+		- Apps
+		- Audiobooks
+		- Amazon Prime
+	
+2. Shop
+3. Games
+4. Apps
+5. Books
+6. Music
+7. Videos
+8. Newsstand
+	- Newspapers & News Magazines
+		1. Daily Mirror: HERE
+		2. Mail Plus
+		3. The Telegraph
+		4. Guardian & Observer daily edition
+		5. Metro Digital Edition
+		6. The Times and Sunday Times
+		7. The i Newspaper
+		8. The Week Magazine UK
+		9. The Independent
+		10. Daily Express
+	- Fashion and Beauty
+		1. Cosmopolitan
+		2. Look
+		3. Stylist
+		4. Vogue
+		5. Glamour
+	- Automotive
+		1. 
+	- Eating and Drinking
+	- Customer Favourites
+	- Interior Design
+	- Sports & Leisure
+	- Technology
+	- Travel & Adventure
+		1. National Geographic
+		2. Lonely Planet: Indian Ocean
+		3. Coast Magazine
+		4. Discover Britain
+		5. Conde Nast Traveller
+		6. 
+	 
+9. Audiobooks
+10. Web
+11. Photos
+12. Docs
+13. Offers
